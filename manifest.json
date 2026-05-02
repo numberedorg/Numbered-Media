@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "f2a7d894-8eef-4b36-aa6f-5d124e828ce2",
+    "name": "MaintenanceMode",
+    "description": "Numbered Org Infrastructure Maintenance Filter.",
+    "overview": "Restricts access to the server during maintenance windows.",
+    "owner": "NumberedOrg",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial Release for Jellyfin 10.11.x",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://numberedorg.github.io/Numbered-Media/MaintenanceMode_1.0.0.0.zip",
+        "checksum": "89a130b324f00b9e589f0dbb7bbdcf17a90738d0473375731ccb735b7024a270",
+        "timestamp": "2026-05-02T21:30:00Z"
+      }
+    ]
+  }
+]
