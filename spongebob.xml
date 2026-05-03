@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Gemini-XMLTV-Gen">
-  <channel id="SB247">
-    <display-name>SpongeBob 24/7</display-name>
+  <!-- Channel 1 -->
+  <channel id="SB247-1">
+    <display-name>SpongeBob: Pat Hearts Squid</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character_design.png/220px-SpongeBob_SquarePants_character_design.png" />
   </channel>
 
-  <!-- Covers May 2nd through May 5th to ensure it stays "On Now" -->
-  <programme start="20260502000000 -0400" stop="20260505000000 -0400" channel="SB247">
-    <title lang="en">Pat Hearts Squid</title>
-    <desc lang="en">SpongeBob Season 12 Episode 19b - 24/7 Loop</desc>
-    <category lang="en">Animation</category>
+  <!-- Channel 2 -->
+  <channel id="SB247-2">
+    <display-name>SpongeBob: Home Sweet Pineapple</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character_design.png/220px-SpongeBob_SquarePants_character_design.png" />
+  </channel>
+
+  <!-- Program for Pat Hearts Squid -->
+  <programme start="20260502000000 -0400" stop="20260510000000 -0400" channel="SB247-1">
+    <title lang="en">Pat Hearts Squid (24/7)</title>
+    <desc lang="en">SpongeBob Season 12 Episode 19b loop.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+
+  <!-- Program for Home Sweet Pineapple -->
+  <programme start="20260502000000 -0400" stop="20260510000000 -0400" channel="SB247-2">
+    <title lang="en">Home Sweet Pineapple (DVD Rip)</title>
+    <desc lang="en">Full Home Sweet Pineapple US DVD (2015 Re-release) loop.</desc>
+    <category lang="en">Animation</category>
   </programme>
 </tv>
