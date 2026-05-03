@@ -1,36 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Gemini-XMLTV-Gen">
-  <!-- Channel Definition -->
   <channel id="Spongebob.247">
     <display-name>SpongeBob 24/7 - Pat Hearts Squid</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character_design.png/220px-SpongeBob_SquarePants_character_design.png" />
   </channel>
 
-  <!-- Program Schedule (Repeating 11-minute blocks for 24 hours) -->
-  <!-- Note: Times are in UTC. Adjust offsets if necessary (e.g., +0000) -->
-  
-  <programme start="20260503000000 +0000" stop="20260503001100 +0000" channel="Spongebob.247">
-    <title lang="en">Pat Hearts Squid</title>
-    <desc lang="en">SpongeBob Season 12 Episode 19b - 24/7 Loop</desc>
+  <!-- This block covers the entire day of May 3rd, 2026 -->
+  <programme start="20260503000000 +0000" stop="20260504000000 +0000" channel="Spongebob.247">
+    <title lang="en">SpongeBob: Pat Hearts Squid</title>
+    <desc lang="en">SpongeBob Season 12 Episode 19b - Playing 24/7</desc>
     <category lang="en">Animation</category>
-    <url>https://archive.org/download/Popcornarchive-spongebobSquarepantsSeason12Episode19bPatHeartsSquid/Popcornarchive-spongebobSquarepantsSeason12Episode19bPatHeartsSquid.mp4</url>
-  </programme>
-
-  <programme start="20260503001100 +0000" stop="20260503002200 +0000" channel="Spongebob.247">
-    <title lang="en">Pat Hearts Squid</title>
-    <desc lang="en">SpongeBob Season 12 Episode 19b - 24/7 Loop</desc>
-    <url>https://archive.org/download/Popcornarchive-spongebobSquarepantsSeason12Episode19bPatHeartsSquid/Popcornarchive-spongebobSquarepantsSeason12Episode19bPatHeartsSquid.mp4</url>
-  </programme>
-
-  <programme start="20260503002200 +0000" stop="20260503003300 +0000" channel="Spongebob.247">
-    <title lang="en">Pat Hearts Squid</title>
-    <desc lang="en">SpongeBob Season 12 Episode 19b - 24/7 Loop</desc>
-    <url>https://archive.org/download/Popcornarchive-spongebobSquarepantsSeason12Episode19bPatHeartsSquid/Popcornarchive-spongebobSquarepantsSeason12Episode19bPatHeartsSquid.mp4</url>
-  </programme>
-
-  <programme start="20260503003300 +0000" stop="20260503235959 +0000" channel="Spongebob.247">
-    <title lang="en">Pat Hearts Squid (Continuous Loop)</title>
-    <desc lang="en">SpongeBob Season 12 Episode 19b - 24/7 Loop</desc>
-    <url>https://archive.org/download/Popcornarchive-spongebobSquarepantsSeason12Episode19bPatHeartsSquid/Popcornarchive-spongebobSquarepantsSeason12Episode19bPatHeartsSquid.mp4</url>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character_design.png/220px-SpongeBob_SquarePants_character_design.png" />
   </programme>
 </tv>
