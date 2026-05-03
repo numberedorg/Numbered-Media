@@ -14,6 +14,14 @@
         "sourceUrl": "https://numberedorg.github.io/Numbered-Media/MaintenanceMode_1.0.0.0.zip",
         "checksum": "f8e5cf9eacad0a081559f488eeeae909",
         "timestamp": "2026-05-02T21:30:00Z"
+      },
+      {
+        "version": "1.0.1.0",
+        "changelog": "Initial Release for Jellyfin 10.11.x",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://numberedorg.github.io/Numbered-Media/MaintenanceMode_1.0.1.0.zip",
+        "checksum": "1ca4ead0ec84d1309bc19b86c8b788ed",
+        "timestamp": "2026-05-02T21:30:00Z"
       }
     ]
   }
