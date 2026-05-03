@@ -17,7 +17,7 @@
       },
       {
         "version": "1.0.1.0",
-        "changelog": "Initial Release for Jellyfin 10.11.x",
+        "changelog": "Added Config Page",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://numberedorg.github.io/Numbered-Media/MaintenanceMode_1.0.1.0.zip",
         "checksum": "1ca4ead0ec84d1309bc19b86c8b788ed",
