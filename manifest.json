@@ -38,6 +38,14 @@
         "sourceUrl": "https://numberedorg.github.io/Numbered-Media/MaintenanceMode_1.0.1.2.zip",
         "checksum": "d4e926ef0375f3b938788d00d4c054aa",
         "timestamp": "2026-05-02T21:30:00Z"
+      },
+      {
+        "version": "1.0.1.5",
+        "changelog": "Automated Version Bump",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://numberedorg.github.io/Numbered-Media/MaintenanceMode_1.0.1.5.zip",
+        "checksum": "567eb54969cbae844bcaf61ec7a3d313",
+        "timestamp": "2026-05-03T02:19:12Z"
       }
     ]
   }
