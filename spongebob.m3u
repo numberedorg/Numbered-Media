@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SB247-1" tvg-name="SpongeBob: Pat Hearts Squid" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character_design.png/220px-SpongeBob_SquarePants_character_design.png" group-title="SpongeBob",SpongeBob - Pat Hearts Squid
+#EXTINF:-1 tvg-id="SB247-1" tvg-chno="1" tvg-name="SpongeBob: Pat Hearts Squid" tvg-logo="https://pbs.twimg.com/profile_images/2034931745900888064/hLxZ5clD_400x400.jpg" group-title="SpongeBob",SpongeBob - Pat Hearts Squid
 https://archive.org/download/Popcornarchive-spongebobSquarepantsSeason12Episode19bPatHeartsSquid/Popcornarchive-spongebobSquarepantsSeason12Episode19bPatHeartsSquid.mp4
 
-#EXTINF:-1 tvg-id="SB247-2" tvg-name="SpongeBob: Home Sweet Pineapple" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/SpongeBob_SquarePants_character_design.png" group-title="SpongeBob",SpongeBob - Home Sweet Pineapple (DVD)
+#EXTINF:-1 tvg-id="SB247-2" tvg-chno="2" tvg-name="SpongeBob: Home Sweet Pineapple" tvg-logo="https://pbs.twimg.com/profile_images/2034931745900888064/hLxZ5clD_400x400.jpg" group-title="SpongeBob",SpongeBob - Home Sweet Pineapple (DVD)
 https://archive.org/download/home-sweet-pineapple-us-dvd-nickelodeon-re-release-2015/Home%20Sweet%20Pineapple%20%28US%20DVD%29%20%28Nickelodeon%20re-release%29%20%5B2015%5D.mp4
