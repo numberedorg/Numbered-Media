@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="SB247-1">
+    <display-name>SpongeBob: Pat Hearts Squid</display-name>
+    <icon src="https://pbs.twimg.com/profile_images/2034931745900888064/hLxZ5clD_400x400.jpg" />
+  </channel>
+  <channel id="SB247-2">
+    <display-name>SpongeBob: Home Sweet Pineapple</display-name>
+    <icon src="https://pbs.twimg.com/profile_images/2034931745900888064/hLxZ5clD_400x400.jpg" />
+  </channel>
+  <programme start="20260501000000 -0400" stop="20260510000000 -0400" channel="SB247-1">
+    <title lang="en">Pat Hearts Squid (24/7)</title>
+    <desc lang="en">SpongeBob Season 12 Episode 19b loop.</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2034931745900888064/hLxZ5clD_400x400.jpg" />
+  </programme>
+  <programme start="20260501000000 -0400" stop="20260510000000 -0400" channel="SB247-2">
+    <title lang="en">Home Sweet Pineapple (DVD Rip)</title>
+    <desc lang="en">Full Home Sweet Pineapple US DVD loop.</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2034931745900888064/hLxZ5clD_400x400.jpg" />
+  </programme>
+</tv>
